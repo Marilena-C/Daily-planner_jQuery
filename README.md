@@ -13,4 +13,6 @@ GitHub repository: https://github.com/Marilena-C/Daily-planner_jQuery
 Deployed website: https://marilena-c.github.io/Daily-planner_jQuery/
 
 ## Screenshots
-https://github.com/Marilena-C/
+https://github.com/Marilena-C/Daily-planner_jQuery/tree/main/images/gitHubScr_planner.jpg
+
+https://github.com/Marilena-C/Daily-planner_jQuery/tree/main/images/deployScrshot_planner.jpg
